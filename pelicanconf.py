@@ -27,7 +27,7 @@ COPYRIGHT_YEAR = datetime.now().year
 DEFAULT_PAGINATION = 5
 
 # Theme Settings
-SITELOGO = "/images/title.png"
+SITELOGO = "/images/logo.svg"
 FAVICON = "/images/favicon.png"
 THEME = "themes/Flex"
 PYGMENTS_STYLE = "default"
@@ -48,8 +48,7 @@ MENUITEMS = (
     ("Tags", "/tags"),
 )
 
-# Blogroll
-#LINKS = (("Project", "https://girisagar46.github.io/FYPFruitClassifier/"),)
+
 
 # Social widget
 
