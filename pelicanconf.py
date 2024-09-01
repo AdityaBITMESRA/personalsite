@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 AUTHOR = "Aditya Pandey"
-SITEURL = "https://adityabitmesra.github.io/personalblog/"
+SITEURL = "https://adityabitmesra.github.io/personalsite/"
 SITENAME = """Aditya's Blog"""
 SITETITLE = AUTHOR
 SITESUBTITLE = "<pre>$ cd /Engineering && Neuroscience</pre>"
